@@ -1,10 +1,3 @@
 {
-  "title_toolbar" : "tiêu đề thanh trạng thái",
-  "title_image" : "Oeschinen Lake Campground",
-  "title_image2" : "The application may be doing too much ",
-  "title_image3" : "Oeschinen Lake Campground",
-  "title_image4" : "Oeschinen Lake Campground",
-  "title_image5" : "Oeschinen Lake Campground",
-  "title_image6" : "Đặt trẻ càng gần cuối trục chính càng tốt.\n\nNếu giá trị này được sử dụng theo hướng nằm ngang, TextDirection phải có sẵn để xác định xem phần cuối là bên trái hay bên phải.\n\nNếu giá trị này được sử dụng theo hướng dọc, thì chiều dọc phải có sẵn để xác định xem kết thúc là đỉnh hay đáy.nd",
-  "title_section" : "call"
+  "title_toolbar" : "tiêu đề thanh trạng thái"
 }
